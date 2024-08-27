@@ -68,9 +68,6 @@ futures-boring = { version = "^0.2" }
 futures-map = { version = "^0.2" }
 futures-http = { version = "^0.2" }
 futures-jsonrpcv2 = { version = "^0.2" }
-futures-quic = { version = "^0.2" }
-futures-yamux = { version = "^0.2" }
-futures-dns = { version = "^0.2" }
 #reweb3
 reweb3 = { path = "crates/reweb3", version = "^0.2" }
 reweb3-num = { path = "crates/num", version = "^0.2" }
